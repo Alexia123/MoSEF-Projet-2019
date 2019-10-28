@@ -5,4 +5,5 @@ read -p "Quel répertoire (chemin absolu) vous intéresse aujourd'hui ?
 " chemin
 echo "Vous avez entré :
 $chemin"
-find ${chemin} -name $1
+echo "La liste des fichiers avec le pattern $1 dans votre chemin contenant $2 est :"
+find ${chemin} -name $1 -exec grep -il $2 {} \;
