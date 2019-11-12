@@ -2,6 +2,7 @@
 ## Réalisé par Alexia ZOUNIAS-SIRABELLA
 
 Ce dépot Git répond aux consignes données dans le cadre du **projet Linux de la formation MOSEF**.
+Vous pouvez retrouver ce récapitulatif ![ici](https://alexia123.github.io/MoSEF-Projet-2019/)
 
 Ce dépot est composé des éléments suivants :
 
