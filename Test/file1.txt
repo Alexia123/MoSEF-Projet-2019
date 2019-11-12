@@ -1,0 +1,3 @@
+Bonjour !
+
+Ce premier fichier permet de tester le script fourni.

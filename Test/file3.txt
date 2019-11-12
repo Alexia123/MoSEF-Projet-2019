@@ -1,0 +1,1 @@
+Ce troisième fichier permet de tester le script fourni.
